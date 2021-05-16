@@ -1,5 +1,7 @@
 # Simple & Lightweight Command Language Script
 Single Line String Script untuk tukar-menukar (*exchange*) data dari Hardware (e.g Arduino) ke Server dan sebaliknya.  
+Menggunakan Buffer Tunggal (*Singgle Buffer*) dalam parsing Script untuk memperkecil RAM Heap.
+
 Tersedia Support PGMSpace (PROGMEM) untuk Arduino.
 
 ## Unit Test
